@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  DemoLocali
+
+  Created by Deftsoft on 06/03/20.
+  Copyright © 2020 Deftsoft. All rights reserved.
+*/
+"CFBundleDisplayName" = "DemoLocali";
+"NSHumanReadableCopyright" = "Copyright © 2020 Deftsoft. All rights reserved.";
